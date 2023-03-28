@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Helisson Siqueira Coutinho</h1>
 <h3 align="center">Web Developer em Java - Full Stack</h3>
 
-- 🔭 Programando em Java,Eclipse e PostgreSQL **  Programa para cadstro de funcionários
+- 🔭 Programando em Java, IDE Eclipse e BD--PostgreSQL ou MySql **  
 
 - 🌱 Web Developer em Java **Java, IDE Eclipse, Spring boot, Spring mvc, Spring Data, Mensageria com RabbitMQ, Docker, AWS - Amazon Web Services,Angular 15**
 
