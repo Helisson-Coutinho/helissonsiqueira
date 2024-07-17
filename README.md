@@ -3,7 +3,7 @@
 
 - 🔭 Programando em Java, IDE Eclipse e BD--PostgreSQL ou MySql **  
 
-- 🌱 Web Developer FullStack **Java, IDE Eclipse, Spring boot, Spring mvc, Spring Data, Mensageria com RabbitMQ, Docker, AWS - Amazon Web Services,Angular 15**
+- 🌱 Web Developer FullStack **Java, IDE Eclipse, Spring boot, Spring mvc, Spring Data, Mensageria com RabbitMQ, Docker, AWS - Amazon Web Services,Angular 18.
 
 - 💬 Pergunte-me sobre **Java Web Developer, SQL, PostgreSQL, MySQL, Angular, Solid, POO, Código Limpo e muito mais...**
 
